@@ -3,13 +3,12 @@
  *********************************************/
 .reveal {
   font-size: 38px;
-  font-weight: normal;
   color: #222; }
 
 .reveal .slides > section,
 .reveal .slides > section > section {
   line-height: 1.3;
-  font-weight: inherit; }
+}
 
 /*********************************************
  * HEADERS
@@ -25,21 +24,28 @@
   font-weight: 600;
   line-height: 1.2;
   letter-spacing: normal;
-  text-transform: uppercase;
   text-shadow: none;
   word-wrap: break-word; }
 
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  margin: 0 0 0.7em 0;
+}
+
 .reveal h1 {
-  font-size: 2.5em; }
+  font-size: 3em; }
 
 .reveal h2 {
-  font-size: 1.6em; }
+  font-size: 2em; }
 
 .reveal h3 {
-  font-size: 1.3em; }
+  font-size: 1.6em; }
 
 .reveal h4 {
-  font-size: 1em; }
+  font-size: 1.2em; }
 
 .reveal h1 .fa,
 .reveal h2 .fa,
@@ -196,7 +202,9 @@
 .reveal a:hover {
   color: #101423;
   text-shadow: none;
-  border: none; }
+  text-decoration: underline;
+  border: none;
+}
 
 /*********************************************
  * IMAGES
@@ -282,7 +290,5 @@
 }
 
 .slide-background.hands-on {
-  background: #00c6ff;
-  background: -webkit-linear-gradient(to top, #0072ff, #00c6ff);
-  background: linear-gradient(to top, #0072ff, #00c6ff);
+  background: #55d9ff;
 }
