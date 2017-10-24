@@ -3,7 +3,7 @@
 <img src="/assets/images/react.svg" style="height: 200px">
 
 
-## Presentation
+## Intro
 
 - JavaScript library for building User Interfaces (UIs)
 - Facebook Open Source
@@ -13,14 +13,14 @@
 Documentation: https://facebook.github.io/react/
 
 
-### React 101
+## React 101
 
-- Abstract UI tree with components
-- Virtual DOM with diff algorithm
+- Abstract UI tree with **components**
+- Virtual DOM with **diff** algorithm
 - Data flow is **unidirectional**
 
 
-### React in Action
+## React in Action
 
 ``` javascript.player.web
 import React from 'react';
@@ -43,10 +43,10 @@ class App extends React.Component {
 
   render() {
     return (
-      <div style={{ margin: '1em' }}>
+      <div style={{ fontSize: '1.2em', margin: '1em' }}>
         <Counter value={this.state.value} />
 
-        <button onClick={this.handleOnClick}>increment</button>
+        <button onClick={this.handleOnClick}>INCREMENT</button>
       </div>
     );
   }
