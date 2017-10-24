@@ -121,8 +121,10 @@ AppRegistry.registerComponent('App', () => App);
 ```
 
 
-### A React Native app is a real mobile application.
+### A React Native application is a real mobile application.
 
+
+### Xcode View Hierarchy
 
 ![](assets/images/xcode-layers.gif)
 
