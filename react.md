@@ -1,6 +1,6 @@
 ## What is React?
 
-<img src="/assets/images/react.svg" style="height: 200px">
+<img src="assets/images/react.svg" style="height: 200px">
 
 
 ## Intro

@@ -1,6 +1,6 @@
 ## Feedback building an app
 
-<img src="/assets/images/pauling.png" style="height: 200px">
+<img src="assets/images/pauling.png" style="height: 200px">
 
 [TailorDev/pauling](https://github.com/TailorDev/pauling)
 
@@ -81,4 +81,4 @@ src/PosterViewer
 - Live/Hot reload is ❤️❤️❤️
 
 
-![](/assets/images/hot-reload.gif)
+![](assets/images/hot-reload.gif)

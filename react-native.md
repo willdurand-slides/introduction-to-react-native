@@ -1,6 +1,6 @@
 ## What is React Native?
 
-<img src="/assets/images/react-native.png" style="height: 200px">
+<img src="assets/images/react-native.png" style="height: 200px">
 
 
 ## Intro
@@ -124,12 +124,12 @@ AppRegistry.registerComponent('App', () => App);
 ## A React Native app is a real mobile application.
 
 
-![](/assets/images/xcode-layers.gif)
+![](assets/images/xcode-layers.gif)
 
 
 ## Who?
 
-![](/assets/images/who.png)
+![](assets/images/who.png)
 
 
 ## What else?
