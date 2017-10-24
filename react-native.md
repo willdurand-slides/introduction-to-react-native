@@ -3,7 +3,7 @@
 <img src="assets/images/react-native.png" style="height: 200px">
 
 
-## Intro
+### Intro
 
 - Build mobile apps using JavaScript
 - Facebook Open Source
@@ -13,7 +13,7 @@
 Documentation: https://facebook.github.io/react-native/
 
 
-## Misconception
+### Misconception
 
 Does the JS compile to native code? **No.**
 
@@ -26,7 +26,7 @@ Bridge
 Native code
 
 
-## React Native in Action (iOS)
+### React Native in Action (iOS)
 
 ``` javascript.player.ios
 import React from 'react';
@@ -62,7 +62,7 @@ AppRegistry.registerComponent('App', () => App);
 ```
 
 
-## React Native in Action (Android)
+### React Native in Action (Android)
 
 ``` javascript.player.android
 import React from 'react';
@@ -98,7 +98,7 @@ AppRegistry.registerComponent('App', () => App);
 ```
 
 
-## Flexbox
+### Flexbox
 
 ``` javascript.player.ios
 import React from 'react';
@@ -121,18 +121,18 @@ AppRegistry.registerComponent('App', () => App);
 ```
 
 
-## A React Native app is a real mobile application.
+### A React Native app is a real mobile application.
 
 
 ![](assets/images/xcode-layers.gif)
 
 
-## Who?
+### Who?
 
 ![](assets/images/who.png)
 
 
-## What else?
+### What else?
 
 Remember the similar slide about React? 😎
 
@@ -145,7 +145,7 @@ Remember the similar slide about React? 😎
 - An ever-growing community
 
 
-## One more thing: [CodePush](https://microsoft.github.io/code-push/)
+### One more thing: [CodePush](https://microsoft.github.io/code-push/)
 
 A service by Microsoft to automatically push (OTA) updates to your mobile
 applications.

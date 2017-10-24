@@ -3,7 +3,7 @@
 <img src="assets/images/react.svg" style="height: 200px">
 
 
-## Intro
+### Intro
 
 - JavaScript library for building User Interfaces (UIs)
 - Facebook Open Source
@@ -13,14 +13,14 @@
 Documentation: https://facebook.github.io/react/
 
 
-## React 101
+### React 101
 
 - Abstract UI tree with **components**
 - Virtual DOM with **diff** algorithm
 - Data flow is **unidirectional**
 
 
-## React in Action
+### React in Action
 
 ``` javascript.player.web
 import React from 'react';
@@ -56,7 +56,7 @@ ReactDOM.render(<App />, document.querySelector('#app'));
 ```
 
 
-## What else?
+### What else?
 
 - Data management with [Redux](http://redux.js.org/)
 - Static type checker: [Flow](https://flow.org/) (also check out
