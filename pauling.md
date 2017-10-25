@@ -19,7 +19,7 @@ support is therefore better.
 
 ### It is still alpha
 
-It works and you can use in production, but:
+It works and you can use it in production, but:
 
 - navigation is not solved
 - you may find bugs
