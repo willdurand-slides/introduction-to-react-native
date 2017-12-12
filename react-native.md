@@ -1,16 +1,10 @@
-## What is React Native?
+## React Native?
 
-<img src="assets/images/react-native.png" style="height: 200px">
-
-
-### Intro
+<img src="assets/images/react-native.png" style="height: 150px">
 
 - Build mobile apps using JavaScript
 - Facebook Open Source
 - **Learn Once, Write Anywhere**
-
-<br>
-Documentation: https://facebook.github.io/react-native/
 
 
 ### Misconception
@@ -98,29 +92,6 @@ AppRegistry.registerComponent('App', () => App);
 ```
 
 
-### Flexbox
-
-``` javascript.player.ios
-import React from 'react';
-import { AppRegistry, View } from 'react-native';
-
-class App extends React.Component {
-  render() {
-    return (
-      // flexDirection: 'row' | 'column'
-      <View style={{flex: 1, flexDirection: 'row'}}>
-        <View style={{flex: 1, backgroundColor: 'blue'}} />
-        <View style={{flex: 1, backgroundColor: 'white'}} />
-        <View style={{flex: 1, backgroundColor: 'red'}} />
-      </View>
-    );
-  }
-}
-
-AppRegistry.registerComponent('App', () => App);
-```
-
-
 ### A React Native application is a real mobile application.
 
 
@@ -147,9 +118,21 @@ Remember the similar slide about React? 😎
 - An ever-growing community
 
 
-### One more thing: [CodePush](https://microsoft.github.io/code-push/)
+### [CodePush](https://microsoft.github.io/code-push/)
 
 A service by Microsoft to automatically push (OTA) updates to your mobile
 applications.
 
 Skip the submission to Google Play/App Store 🚀
+
+
+### Developer Experience
+
+- Debugger in Chrome
+- Fast feedback loop
+- Live/Hot reload is ❤️❤️❤️
+
+
+### 🔥🔥🔥
+
+![](assets/images/hot-reload.gif)

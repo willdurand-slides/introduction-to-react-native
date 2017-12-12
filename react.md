@@ -1,16 +1,10 @@
-## What is React?
+## React?
 
-<img src="assets/images/react.svg" style="height: 200px">
-
-
-### Intro
+<img src="assets/images/react.svg" style="height: 150px">
 
 - JavaScript library for building User Interfaces (UIs)
 - Facebook Open Source
 - **Learn Once, Write Anywhere**
-
-<br>
-Documentation: https://facebook.github.io/react/
 
 
 ### React 101
